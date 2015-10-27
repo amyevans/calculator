@@ -16,7 +16,7 @@ body {
 
 .calculator h1 {
 	margin-top: 0;
-	color: rgb(235, 235, 235);
+	color: white;
 	font-family: Lato;
 	text-transform: uppercase;
 
@@ -104,4 +104,14 @@ body {
 
 .plus {
 	height: 86px;	
+}
+
+.output {
+	background-color: rgb(183,173,161);
+	text-align: right;
+	margin: 8px 3px;
+	height: 40px;
+	border-radius: 5px;
+	padding: 5px 5px 0 5px;
+	font-size: 30px;
 }
