@@ -78,7 +78,7 @@ body {
 	outline: none;
 }
 
-.red {
+.clear {
 	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #d0451b), color-stop(1, #bc3315));
 	background:-moz-linear-gradient(top, #d0451b 5%, #bc3315 100%);
 	background:-webkit-linear-gradient(top, #d0451b 5%, #bc3315 100%);
@@ -91,7 +91,7 @@ body {
 	text-shadow: 0 0 0 #ffffff;
 }
 
-.red:hover {
+.clear:hover {
 	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #bc3315), color-stop(1, #d0451b));
 	background:-moz-linear-gradient(top, #bc3315 5%, #d0451b 100%);
 	background:-webkit-linear-gradient(top, #bc3315 5%, #d0451b 100%);
